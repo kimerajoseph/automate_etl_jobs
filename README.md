@@ -1,2 +1,3 @@
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jdrf.org%2Fblog%2F2020%2F12%2F09%2Fjdrf-amazon-web-services-imagine-grant%2Faws-logo-2%2F&psig=AOvVaw2ViWsIe6HbafvWLctB7uKf&ust=1641998795145000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIC4gKn4qfUCFQAAAAAdAAAAABAJ)
+
+https://marvel-b1-cdn.bc0a.com/f00000000243109/1x5o5mujiug388ttap1p8s17-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/AWS-logo-2-400x300.jpg
 # AUTOMATE ETL JOBS ON S3 FILE UPLOAD
