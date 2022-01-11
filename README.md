@@ -3,15 +3,15 @@
 # PROJECT | AUTOMATE ETL JOBS ON AWS
 ## Trigger a Glue crawler and Glue ETL job every time a file is uploaded in an S3 bucket including SNS email notifications
 ### Intoduction
-Alot of times, data engineering teams spen a considerable amount of time on routine and repeatitive tasks. Under this project, we are attempting to remedy this
-We set up Glue crawlers that run every time a file is added to a given S3 bucket. They crawl and add the new file/data to the Meta data catalogue. We create
-new tables or append to exiting one and meake the data available for querrying with Athena and Redshift spectrum
+Alot of times, data engineering teams spend a considerable amount of time on routine and repeatitive tasks. In this project, we are attempting to remedy this
+We set up Glue crawlers that run every time a file is added to a given S3 bucket. The crawler crawls and adds the new file/data to the Meta data catalogue. We create
+new tables or append to exiting ones and make the data available for querrying with Athena and Redshift spectrum
 We also run a Glue Extrat-Transform-Load (ETL) in Glue studio to clean the data before uploading it into data catalog tables
 
 ## AWS Services used
 1. S3
 2. Glue
-3. Simple Notification Services
+3. Simple Notification Services (SNS)
 4. EventBridge
 5. Lambda
 6. Athena
